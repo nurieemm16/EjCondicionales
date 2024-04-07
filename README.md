@@ -1,0 +1,2 @@
+# EjCondicionales
+Ejercicio javascript condicionales
